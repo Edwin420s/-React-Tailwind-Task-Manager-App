@@ -72,5 +72,17 @@ Autograding Readiness
 Author
 Edwin Mwenda Mwiti
 📧 eduedwyn5@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn 
+
+Made with 💙 using React + Tailwind + Vite
+
+
+---
+
+✅ **Next Steps:**
+1. Replace all placeholders like `your-username`, `your-repo-name`, and `your-vercel-url` with your actual GitHub username, repository name, and deployed link.
+2. Add screenshots into a `screenshots/` folder in the root directory.
+
+Let me know if you’d like help generating badge shields, customizing the theme toggle demo, or linking the repo to a domain.
+
 
