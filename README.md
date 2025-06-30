@@ -10,7 +10,8 @@ This is a responsive **Task Manager Application** built using **React**, **Vite*
 ---
 
 ## 📁 Project Structure
-``src/
+``
+src/
 ├── components/
 │   ├── Button.jsx
 │   ├── Card.jsx
@@ -26,7 +27,9 @@ This is a responsive **Task Manager Application** built using **React**, **Vite*
 │   └── ThemeContext.jsx
 ├── App.jsx
 ├── main.jsx
-├── index.css``
+├── index.css
+
+``
 
 
 ---
